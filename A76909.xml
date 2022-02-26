@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloudy persecution of the Protestants in Ireland being the contents of severall letters brought by his Majesties post from Ireland, November the 21. 1641, wherein is related, how the rebels forces doe daily encrease, and how the Protestants still are destroyed by fire and sword, without any mercie, also, how many good townes and castles in the county of Monno, have beene consumed by fire. With a true rclation [sic] of the cruelty which the rebels used to Sir Patricke Dunson, by ravishing of his lady before his face, spurning of his children to death, and slaying his servants and himselfe after an unheard of bloudy manner. And how his lady was rescued by Sir Thomas Moore.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76909</idno>
+            <idno type="STC">Wing B3287A</idno>
+            <idno type="STC">ESTC R210972</idno>
+            <idno type="EEBO-CITATION">99895825</idno>
+            <idno type="PROQUEST">99895825</idno>
+            <idno type="VID">153428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2364:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloudy persecution of the Protestants in Ireland being the contents of severall letters brought by his Majesties post from Ireland, November the 21. 1641, wherein is related, how the rebels forces doe daily encrease, and how the Protestants still are destroyed by fire and sword, without any mercie, also, how many good townes and castles in the county of Monno, have beene consumed by fire. With a true rclation [sic] of the cruelty which the rebels used to Sir Patricke Dunson, by ravishing of his lady before his face, spurning of his children to death, and slaying his servants and himselfe after an unheard of bloudy manner. And how his lady was rescued by Sir Thomas Moore.</title>
+               </titleStmt>
+               <extent>[8] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Melvin, and are to be sold in Grubstreet, neere to the Flying Horse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moore, Thomas, --  17th cent --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153428:1" rendition="simple:additions"/>
+            <p>THE BLOVDY PERSECUTION OF THE PROTESTANTS IN IRELAND, BEING The Contents of ſeverall Letters brought by his Majeſties Poſt from <hi>Ireland, November</hi> the 21. 1641,</p>
+            <p>Wherein is related, how the <hi>Rebels</hi> forces doe daily encreaſe, and how the Proteſtants ſtill are deſtroyed by fire and ſword, without any Mercie.</p>
+            <p>Alſo, how many good Townes and Caſtles in the County of <hi>Monno,</hi> have beene conſumed by fire.</p>
+            <p>With a true Relation of the cruelty which the Rebels uſed to Sir <hi>Patricke Dunſon,</hi> by raviſhing of his Lady before his face, ſpurning of his Children to death, and ſlaying his Servants and himſelfe after an unheard of bloudy manner. And how his Lady was Reſcued by Sir <hi>Thomas Moore.</hi>
+            </p>
+            <p>
+               <hi>London, Printed for Richard Melvin, and are to be ſold in Grubſtreet, neere to the Flying Horſe.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:153428:2"/>
+            <pb facs="tcp:153428:2" rendition="simple:additions"/>
+            <head>THE Bloudy Perſecution of the Proteſtants in Ireland.</head>
+            <p>
+               <seg rend="decorInit">O</seg> What a bloudy age is this! Nothing almoſt but news ſet forth in a red cha<g ref="char:EOLhyphen"/>racter, comes abroad to bee divulged unto the eye of the whole world. Tro<g ref="char:EOLunhyphen"/>chery onely upon the <hi>Iriſh</hi> Stage doth act its part, Treaſon daily hath a pro<g ref="char:EOLhyphen"/>ceeding off-ſpring, begot upon the bloud-thirſty bodyes of Jeſuiticall Papiſts, Peace is exiled, and Proreſtants in <hi>Ireland</hi> ſeeke comfort, but cannot find it. Much Newes hath been brought over into <hi>England,</hi> and all hath bin nothing but a packet of cruelty: many times hath godlineſſe bin expected, but the event hath bin bad, which doth cauſe great lamentation, and horror to all well-affected Proteſtants, whoſe unhappy eſtate, it is our piety to con<g ref="char:EOLhyphen"/>dole. Shall the <hi>Iriſh</hi> Seas be made partakers for ever of Ae<g ref="char:EOLhyphen"/>gypts Curſe; ſhall the effuſion of Proteſtants bloud bring it into a ſanguine hue; ſhall Crimſon never bee converted into a ſnowie dye, the great God of heaven forbid it.</p>
+            <p>Take comfort, take comfort, you which are of the houſe of <hi>Iuda:</hi> for although the Gentiles boaſt and brag for a time, they ſhall not doe it for ever: God ſuffers you to bee afflicted to try you, he lets you be wounded, but he will not ſuffer you to be eternally ſlaine. but Oh! ye miſerable hap<g ref="char:EOLhyphen"/>py men of <hi>Ireland,</hi> give me licence to make your wofull for<g ref="char:EOLhyphen"/>tunes knowne unto the well-affected <hi>Engliſh,</hi> that they may haſte to your Reſcue, and manger the maliee of the <hi>Baby<g ref="char:EOLhyphen"/>loniſh</hi> Whore, and ſet a period to your ſorrow: and thus I begin.</p>
+            <pb facs="tcp:153428:3" rendition="simple:additions"/>
+            <p>VPon the 27. day of <hi>Novem.</hi> 1641. came this Newes unto <hi>England</hi> by his Majeſties Poſt: how that the Papiſts in <hi>Ireland</hi> doe daily excrease their forces, and from other forraine Nati<g ref="char:EOLhyphen"/>ons doe ho rely receive ayd.</p>
+            <p>Vpon the 21. of the laſt month, being <hi>Novem.</hi> the <hi>Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els</hi> hearing of the <hi>Red-ſhanks</hi> approach, ſeemed much perplexed, but were encouraged ſtill to conti<g ref="char:EOLhyphen"/>nue in their b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oudy reſtitutions, by that <hi>Aruckhile, Sir Hugh Oneale,</hi> who hath ſtayned his Fathers for<g ref="char:EOLhyphen"/>mer ſervice, which hee did for the proſperity of the renowned Queene <hi>Elizabeth:</hi> who although he were a <hi>Recuſant,</hi> yet was he never knowne to be a Traytor unto her, but a true and loyall Subject: but this Sir <hi>Hugh Oneale,</hi> his Son being chiefe Commander of the <hi>Rebels,</hi> deſired nothing but the ſinall deſtruction of true Chriſtian Proteſtants.</p>
+            <p>Hee gathered all his Companies together in the woods, and as the <hi>Redſhanks</hi> entred into one place, they iſſued out into another, and having an Army of about 15 thouſand, divided them into foure parts, and ſo whilſt one part was reſiſted, th' other were doring miſchiefe: their ayme hath alwayes bin at the de<g ref="char:EOLhyphen"/>ſtruction of the County of <hi>Monno,</hi> there have they depopulated the Inhabitants, and deſtroyad fifteene Townes and three Caſtles by fire, the Proteſtants which have bin taken there, have bin put to unheard of torments, women have bin ſlain in their husbands armes, and husbands embracing of their wives, the braines of children they daily daſh out, and in a moſt damnable manner trample them under their feet, &amp;
+<pb facs="tcp:153428:3" rendition="simple:additions"/>he accounts himſelfe happy that can get a limbe to ſhew what he hath done, their skeanes they never ſheath, unleſſe it be in the body of ſome piout Pro<g ref="char:EOLhyphen"/>teſtants. And then doe they beare them up towards the Heavens, as if the King thereof would accept them as pleaſing Sacrifices.</p>
+            <p>But oh! Now muſt I come to relate the bloudieſt Tragedy that ever eye beheld.</p>
+            <p>Upon the 22. of <hi>Novemb;</hi> the Rebels made a privy ſearch in the City of <hi>Armagh,</hi> that they might in a moment deſtroy all thoſe which were true Prote<g ref="char:EOLhyphen"/>ſtants there.</p>
+            <p>And in the firſt place, they beſet the houſe of Sir <hi>Patrick Dunſon,</hi> who was alwayes knowne to bee an upright man, and a worſhipper of the living God.</p>
+            <p>This Sir <hi>Patricke Dunſon</hi> perceiving how his houſe was ſurrounded, and knowing what would pre<g ref="char:EOLhyphen"/>ſently inſue, called all his ſervants to prayers, the Rebels in the meane while being in number about five hundred, broke downe the Gate, which led unth his houſe, and as the ſaid Knight was making his ſup<g ref="char:EOLhyphen"/>plication to the Almighty God, they ſeazed upon him, his wife, children, ſervants, and goods, asking Sir <hi>Patrick</hi> if he would doe as they did. elſe ſhould he be ſure to dye, who anſwered them thus.</p>
+            <q>
+               <hi>I had rather be a Doore-keeper in the houſe of my God, then to live in the richeſt tents of the wicked.</hi>
+            </q>
+            <pb facs="tcp:153428:4" rendition="simple:additions"/>
+            <p>Which when the Rebels heard, they took his wife and raviſhed her, perforce, before his face, ſlew his ſervants, ſpurned his children untill they dyed, and then ſwore to doe the like to his wife, if that ſpeedi<g ref="char:EOLhyphen"/>ly be would not recant his former words: but hee laughed them to ſcorne, ſaying, that their cruelty would be the meanes to bring them to eternall feli<g ref="char:EOLhyphen"/>city.</p>
+            <p>When they perceived, how he had derided their proffer, they did run upon him, and bound him with rowles of match faſt to a board, ſo faſt, that his eyes burſted out of his head, then did they cut of his eares, then his noſe, then ſeered off both his cheekes; after that they cut off his armes, after that his legs, and yet (a wonderfull thing to heare) was not this good Knight dead, although he were in body ſo inhuman<g ref="char:EOLhyphen"/>ly mangled: will, eye and vitall ſpirits remaine; then did they cut out his tongue, and afterward to put him out of his paine, they ran a red hot Iron into his bowels, and ſo he dyed.</p>
+            <p>His Lady they killed not; but becauſe ſhe was a faire woman, did intend to keep her, that they might abuſe her delicate body when they pleaſed: but God which bringeth all things to light, revenged the cauſe of this good Lady thus.</p>
+            <p>Sir <hi>Thomas Moore</hi> having intelligence, how that the Rebels were in the city of <hi>Armagh,</hi> with a thou<g ref="char:EOLhyphen"/>ſand men marched to the Proteſtants reſcue, brea<g ref="char:EOLhyphen"/>king downe the City gates, which were barred a<g ref="char:EOLhyphen"/>gainſt him: which the <hi>Rebels</hi> hearing, prepared them ſelves for fight, but before they would ſetle their
+<pb facs="tcp:153428:4" rendition="simple:additions"/>ranks, and foyles, they were all ſurprized by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Moore,</hi> and many of them were ſlaine, and the Lady redeemed; whom Sir <hi>Thomas Moore</hi> carryed home to his owne houſe.</p>
+            <p>But yet doe the <hi>Rebels</hi> commit very much ſlaugh<g ref="char:EOLhyphen"/>ter both by fire and ſword: no ſooner are they dri<g ref="char:EOLhyphen"/>ven out of one place, but they ariſe in another.</p>
+            <p>Wherefore let us all with an unanimous conſent pray unto God, that he would be pleaſed to weaken their enemies, and confound their foes, that the pure milke of the Goſpell may have its free paſſage amongſt them: to which, let all true Proteſtants ſay, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
